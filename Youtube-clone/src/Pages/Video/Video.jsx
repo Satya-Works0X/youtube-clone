@@ -1,10 +1,9 @@
 import React from 'react'
-import Navbar from './Components/Navbar/Navbar'
+import './Video.css'
 
-const App = () => {
+const Video = () => {
   return(
     <div>
-      <Navbar />
       
     </div>
   )
